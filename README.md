@@ -22,3 +22,8 @@ Chart 2 also indicates that there may be an indirect relation between campaignsâ
 
 Chart 2
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89421440/138539937-fb512bcc-e26e-4896-b064-ba505e4e8599.png)
+
+### Challenges
+The analysis presented here is limited as they are exploratory analysis and do not include statistical testing. The apparent effects of launch date and goals on outcomes identified in Chart 1 and 2, respectively, may not be statically significant. Therefore, the analysis presented here, although insightful, should be interpreted carefully.
+
+## Results
